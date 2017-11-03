@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1509738546 source:c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\main.cpp
+	<windows.h>
+	"GL/glut.h"
+	<iostream>
+	<Object3D.h>
+
+1509748247 source:c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\src\vec3.cpp
+	"Vec3.h"
+
+1509748241 c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\include\vec3.h
+	<Mat4.h>
+	<stdlib.h>
+
+1509748196 source:c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\src\mat4.cpp
+	"Mat4.h"
+
+1509748133 c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\include\mat4.h
+	<stdlib.h>
+	<math.h>
+
+1509748145 source:c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\src\object3d.cpp
+	"Object3D.h"
+
+1509737202 c:\users\marcus\documents\workspace\workspace-study\code_block_workspace\simple-opengl\include\object3d.h
+	<Vec3.h>
+	<Mat4.h>
+	"GL/gl.h"
+	"GL/glut.h"
+
